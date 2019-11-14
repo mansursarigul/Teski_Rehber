@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:title="Bul"
+        android:icon="@android:drawable/ic_input_add"
+        app:showAsAction="withText"
+        android:orderInCategory="101"
+        android:id="@+id/menuArama"
+        >
+    </item>
+    <item
+        android:title="Ada göre listele"
+        android:icon="@android:drawable/ic_input_add"
+        app:showAsAction="withText"
+        android:orderInCategory="101"
+        android:id="@+id/menuBirimListele"
+    >
+    </item>
+    <item
+        android:title="Yenile"
+        android:icon="@android:drawable/ic_input_add"
+        app:showAsAction="withText"
+        android:orderInCategory="101"
+        android:id="@+id/menuYenile"
+        >
+    </item>
+    <item
+        android:title="Tümünü daralt"
+        android:icon="@android:drawable/ic_input_add"
+        app:showAsAction="withText"
+        android:orderInCategory="101"
+        android:id="@+id/menuDaralt"
+        >
+    </item>
+    <item
+        android:title="Tümünü genişlet"
+        android:icon="@android:drawable/ic_input_add"
+        app:showAsAction="withText"
+        android:orderInCategory="101"
+        android:id="@+id/menuGenislet"
+        >
+    </item>
+    <item
+        android:title="Çıkış"
+        android:icon="@android:drawable/ic_input_add"
+        app:showAsAction="withText"
+        android:orderInCategory="101"
+        android:id="@+id/menuExit"
+    >
+    </item>
+</menu>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contents>
+    <setting>
+        <VersiyonNo>17</VersiyonNo>
+    </setting>
+    <Versiyon>
+        <Minor>3</Minor>
+        <Major>1.3</Major>
+    </Versiyon>
+    <localSettings>
+        <XMLRehberURL>http://172.16.90.83/tftp/config/data.xml</XMLRehberURL>
+        <XMLVersiyonURL>http://172.16.90.83/tftp/config/AppVer.xml</XMLVersiyonURL>
+        <ApkURL>http://172.16.90.83/tftp/config/Apk.apk</ApkURL>
+    </localSettings>
+        <rootnode>
+            <Id>1</Id>
+            <AdSoyad>Mansur</AdSoyad>
+            <DID>0850 450 6350</DID>
+            <Mobil>0549 798 2315</Mobil>
+            <Unvan>Daire Başkanı V.</Unvan>
+            <Daire>Arıtma Tesisleri Dairesi Başkanlığı</Daire>
+        </rootnode>
+        <rootnode>
+            <Id>2</Id>
+            <AdSoyad>Pınar YILDIZ DEMİRKOL</AdSoyad>
+            <DID>0850 450 6360</DID>
+            <Mobil>0549 798 2302</Mobil>
+            <Unvan>Şube Müdürü V.</Unvan>
+            <Daire>İçme Suyu Arıtma Tesisleri Şube Müdürlüğü</Daire>
+        </rootnode>
+        <rootnode>
+            <Id>3</Id>
+            <AdSoyad>Murat YILDIZ</AdSoyad>
+            <DID>0850 450 6361</DID>
+            <Mobil>0549 798 2303</Mobil>
+            <Unvan>Kimya Mühendisi</Unvan>
+            <Daire>İçme Suyu Arıtma Tesisleri Şube Müdürlüğü</Daire>
+        </rootnode>
+        <rootnode>
+            <Id>4</Id>
+            <AdSoyad>Tolga KAYGUSUZ</AdSoyad>
+            <DID>0850 450 6362</DID>
+            <Mobil>0549 798 2304</Mobil>
+            <Unvan>Çevre Yüksek Mühendisi</Unvan>
+            <Daire>İçme Suyu Arıtma Tesisleri Şube Müdürlüğü</Daire>
+        </rootnode>
+        <rootnode>
+            <Id>5</Id>
+            <AdSoyad>Orhan YILDIRIM</AdSoyad>
+            <DID>0850 450 6363</DID>
+            <Mobil>0549 798 2305</Mobil>
+            <Unvan>Makine Mühendisi</Unvan>
+            <Daire>İçme Suyu Arıtma Tesisleri Şube Müdürlüğü</Daire>
+        </rootnode>
+        <rootnode>
+            <Id>6</Id>
+            <AdSoyad>Naip Içme Suyu Arıtma Tesisi Güvenlik</AdSoyad>
+            <DID>0850 450 6367</DID>
+            <Mobil>0549 798 2306</Mobil>
+            <Unvan>Güvenlik</Unvan>
+            <Daire>İçme Suyu Arıtma Tesisleri Şube Müdürlüğü</Daire>
+        </rootnode>
+        <rootnode>
+            <Id>7</Id>
+            <AdSoyad>Naip SCADA</AdSoyad>
+            <DID>0850 450 6369</DID>
+            <Mobil>0549 798 2307</Mobil>
+            <Unvan>Naip İçmesuyu Arıtma Tesisi SCADA</Unvan>
+            <Daire>İçme Suyu Arıtma Tesisleri Şube Müdürlüğü</Daire>
+        </rootnode>
+</contents>
